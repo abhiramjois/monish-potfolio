@@ -14,7 +14,7 @@
 		<nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 			<div class="flex justify-between items-center py-4">
 				<!-- Logo -->
-				<a href="/" class="text-lg text-monicolour font-pixel hover:text-pink-500 transition">
+				<a href="/" class="text-sm text-monicolour font-pixel hover:text-pink-500 transition">
 					Monish Suresh
 				</a>
 

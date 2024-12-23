@@ -7,7 +7,7 @@
 
 <section class="max-w-5xl mx-auto px-4 py-8">
   <!-- Title -->
-  <h1 class="text-3xl text-outline text-center mb-8">{methodologyTitle}</h1>
+  <h1 class="text-lg md:text-2xl text-outline text-center mb-8">{methodologyTitle}</h1>
 
   <!-- Projects -->
   <div class="space-y-3">
