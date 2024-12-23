@@ -1,0 +1,26 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.text-outline {
+    font-family: "Press Start 2P", sans-serif;
+    color: white; /* White text color */
+    text-shadow: 
+      -2px -2px 0 #ff4b68,  /* Top-left outline */
+      2px -2px 0 #ff4b68,   /* Top-right outline */
+      -2px 2px 0 #ff4b68,   /* Bottom-left outline */
+      2px 2px 0 #ff4b68,    /* Bottom-right outline */
+      3px 3px 0 #ff4b68,    /* Extra bottom-right thickness */
+      -3px 0px 0 #ff4b68,   /* Left outline */
+      0px -3px 0 #ff4b68,   /* Top outline */
+      4px 4px 0 #ff4b68,    /* Even thicker bottom-right shadow */
+      5px 5px 0 #ff4b68;    /* Final touch for bottom-right depth */
+  }
+
+.text-monicolour {
+  color: #ff4b68
+}
+
+.bg-monicolour {
+  background-color: #ff4b68
+}
